@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BrunoLopesPalmeira
-- 👀 I’m interested in you
+- 👋 Hi, I’m @bruno_lopes93
+- 👀Engenheiro de Software
 - 🌱 I’m currently learning Python, JavaScritp, C#, CSS, Java, Django
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me Anywhere
